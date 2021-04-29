@@ -1,0 +1,19 @@
+{
+    "username" : "SWTestingDummyUser",
+    "password" : "777DummyPass",
+    "downloadPath" : "C:\\test\\",
+    "staticPages" : [
+        {
+            "url" : "https://docs.github.com/en",
+            "title" : "GitHub Documentation" 
+        },
+        {
+            "url" : "https://docs.github.com/en/github/site-policy/github-privacy-statement",
+            "title" : "GitHub Privacy Statement - GitHub Docs"
+        },
+        {
+            "url" : "https://docs.github.com/en/github/site-policy/github-terms-of-service",
+            "title" : "GitHub Terms of Service - GitHub Docs"
+        }
+    ]
+}
